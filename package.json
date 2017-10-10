@@ -2,7 +2,7 @@
   "name": "fucking-weather",
   "version": "0.0.0",
   "description": "Hello Expo!",
-  "author": null,
+  "author": "jangdonghee",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
